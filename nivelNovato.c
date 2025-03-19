@@ -8,8 +8,9 @@ int main() {
     // Nível Novato - Posicionamento dos Navios
     // Sugestão: Declare uma matriz bidimensional para representar o tabuleiro (Ex: int tabuleiro[5][5];).
    
-    int tabuleiro[10][10];
-    int i, j, linhaV = 2, colunaH = 7;
+    int tabuleiro[10][10]; // Tabuleiro 10x10
+    int i, j; // Índices para linhas e colunas
+    int linhaV = 2, colunaH = 7; // Linha e coluna para posicionamento dos navios
     char colunas[] = "ABCDEFGHIJ"; // Letras para colunas
 
     // Inicializa o tabuleiro com água (0)   
@@ -54,7 +55,6 @@ int main() {
         printf("\n");
     }
          
-
 
     printf("\n\n");
 
