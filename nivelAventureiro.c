@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-// Desafio Batalha Naval - MateCheck
-// Este código inicial serve como base para o desenvolvimento do sistema de Batalha Naval.
-// Siga os comentários para implementar cada parte do desafio.
+    // Desafio Batalha Naval - MateCheck
+    // Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
 
 int main() {
-    // Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
+    
     // Sugestão: Expanda o tabuleiro para uma matriz 10x10.
 
     int tabuleiro[10][10]; // Tabuleiro 10x10
